@@ -1,0 +1,6 @@
+[submodule "php2610"]
+	path = php2610
+	url = https://github.com/thuthuy2610/phpthuan.git
+[submodule "php"]
+	path = php
+	url = https://github.com/thuthuy2610/phpthuan.git
